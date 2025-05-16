@@ -8,7 +8,7 @@ No primeiro semestre de logística fomos incumbidos de atender a demanda de noss
 |--------------|-----------------|----------|
 |Product Owner | Camila Pereira  | 
 |Scrum Master  | Vitória Beatriz | 
-|Team Member   | Heloisa Santos  | 
+|Team Member   | Heloisa Santos  | https://www.linkedin.com/in/maria-heloiza-dos-santos-machado-7884422b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 |Team Member   | Rafaela Motta   | 
 |Team Member   | Ana R. Araújo   | 
 |Team Member   | Gabriele Fujita | 
