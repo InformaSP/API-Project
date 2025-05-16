@@ -6,4 +6,11 @@ No primeiro semestre de logística fomos incumbidos de atender a demanda de noss
 ## Equipe
 |    Função    |       Nome      | Linkedin |
 |--------------|-----------------|----------|
-|Product Owner | Vitória Beatriz | 
+|Product Owner | Camila Pereira  | 
+|Scrum Master  | Vitória Beatriz | 
+|Team Member   | Heloisa Santos  | 
+|Team Member   | Rafaela Motta   | 
+|Team Member   | Ana Tomé        | 
+|Team Member   | Gabriele Fujita | 
+|Team Member   | Kelvin Sampaio  | 
+
