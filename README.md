@@ -10,7 +10,7 @@ No primeiro semestre de logística fomos incumbidos de atender a demanda de noss
 |Scrum Master  | Vitória Beatriz | 
 |Team Member   | Heloisa Santos  | 
 |Team Member   | Rafaela Motta   | 
-|Team Member   | Ana Tomé        | 
+|Team Member   | Ana R. Araújo   | 
 |Team Member   | Gabriele Fujita | 
 |Team Member   | Kelvin Sampaio  | 
 
