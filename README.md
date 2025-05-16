@@ -1,14 +1,20 @@
 # Projeto Integrador API
-No primeiro semestre de logística fomos incumbidos de atender a demanda de nosso cliente que solicitou uma análise detlhada e dinâmica dos países que mais exportam dos munícipios brasileiros localizados no estado de São Paulo, especificamente dos anos 2023 e 2024, focando principalmente nos cinco munícipios que mais exportam em Kgl, focando em destacar qual o valor agregado (V/a), valor que representa o custo da mercadoria free on board (FOB), desenvolvendo um modelo de projeção baseado em tendências de mercado tanto para analisar quanto prever oportunidades no setor de exportações.  Em segundo lugar, pretende-se avaliar a distribuição estatística dos produtos exportados, a fim de identificar padrões e variações na logística de importação. Por fim, o projeto visa rankear os 10 principais munícipios que mais exportam e os produtos, , proporcionando uma visão clara sobre o índice de exportações realizadas. A base de dados utilizada foi retirada do site oficial do Governo brasileiro por meio da plataforma gov.com.br.
+No primeiro semestre do curso de Logística, fomos incumbidos de atender à demanda de um cliente que solicitou uma análise detalhada e dinâmica sobre os países que mais importam produtos dos municípios paulistas, com foco nos anos de 2023 e 2024. A análise concentrou-se principalmente nos cinco municípios que mais exportam em quilogramas (Kg), buscando destacar tanto o valor FOB (Free On Board) das mercadorias — que representa o custo da exportação até o ponto de embarque — quanto o valor agregado (VA), entendido como a riqueza gerada ao longo do processo produtivo. Além disso, o projeto contempla o desenvolvimento de um modelo de projeção baseado em tendências de mercado, com o objetivo de analisar e prever oportunidades no setor de exportações. Em um segundo momento, buscamos avaliar a distribuição estatística dos produtos exportados, com o intuito de identificar padrões e variações que impactam a logística de importação. A base de dados utilizada foi obtida por meio da plataforma oficial do governo brasileiro: gov.br.
 
-## Índice
-
-## Equipe
+# Índice
+* <ins>Projeto</ins>
+* <ins>Equipe</ins>
+* <ins>Objetivo do Projeto</ins>
+* <ins>Sprints</ins>
+* <ins>Backlog do produto</ins>
+* <ins>Dashboard</ins>
+  
+# Equipe
 |    Função    |       Nome      | Linkedin |
 |--------------|-----------------|----------|
-|Product Owner | Camila Pereira  | 
+|Product Owner | Camila Martins  | 
 |Scrum Master  | Vitória Beatriz | 
-|Team Member   | Heloisa Santos  | https://www.linkedin.com/in/maria-heloiza-dos-santos-machado-7884422b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+|Team Member   | Heloisa Santos  | 
 |Team Member   | Rafaela Motta   | 
 |Team Member   | Ana R. Araújo   | 
 |Team Member   | Gabriele Fujita | 
