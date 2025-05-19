@@ -44,158 +44,130 @@ Futuramente
 |Team Member   | Heloisa Santos  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-heloiza-dos-santos-machado-7884422b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 |Team Member   | Gabriele Fujita |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-fujita-4151b0198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 |Team Member   | Ana R. Araújo   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ara%C3%BAjo-tom%C3%A9-754936215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-|Team Member   | Kelvin Sampaio  |
+|Team Member   | Kelvin Sampaio  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-sampaio-139a462b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
-
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+Este projeto tem como objetivo ajudar e facilitar a  visualização dos dados sobre os cinco principais produtos exportados, o valor FOB e quais os principais países exportadores de mercadores, visando:
+* Facilitar a tomada de decisões;
+* Identificar as oportunidades de mercado;
+* Mitigação de riscos;
+* Planejamento da logística empresarial e operacional;
+* Monitoramento de desempenho;
+* Análise de tendências.
 
 ## Tecnologias Utilizadas
-  ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
-
- ### Tecnológias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-Exemplos: 
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
   
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
+  <div>
+  <img align="center" alt="jira" heigh="50" width="160" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png"> 
+  
+  <img align="center" alt="github" heigh="40" width="140" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"> 
+  
+  <img align="center" alt="powerbi" heigh="40" width="140" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">  
+  
+  <img align="center" alt="python" heigh="50" width="160" src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png"> 
+
+   <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/75ac2835e93f2b2062435bc27d293dbf791db214/colab.jpg"> 
+
+   <img align="center" alt="sql" heigh="20" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"> 
+  
+
+ </div>
+ 
 
 # Cronograma das Sprints
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-# Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
+# Sprints
 
-Regras de Negócio
-- 
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|Kick Off | 03/09/2024 | concluído| [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI4/blob/a7efe809947d6a92951321e9f4f69c2a47b57eb2/Kick-off%20API%204.pptx) | 
+|01 | 27/09/2024 | concluído | [Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI4/blob/c20f343b22a3fdc18b435480dc7d97d8977fa4b0/RELATO%CC%81RIO%201%20api4.pdf) | 
+|02|  18/10/2024| concluído |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI4/blob/ac6f6fcb8f3355b0e9f36f6ec36ce433ac6f21ab/RELAT%C3%93RIO%202%20api4.pdf) | 
+|03|  08/11/2024 | concluído |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI4/blob/390ac2ec81849e2ff12661e06266cb21d47f3493/RELAT%C3%93RIO%204%20api4.docx) | 
+|04|  29/11/2024 | concluído |[Ver Relatório]()  | 
+|Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório]() | 
+
+
+# Requisitos
 
 Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+- Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023
+- Interface em BI para avaliação de indicadores portuários (tempos de processamento e espera, produção dos shiploaders em termos de processamento por hora)
+- Modelo de projeção de tendência da produtividade dos shiploaders
+- Compartilhamento do código pelo Google COLAB
+- Rankeamento dos portos por meio da aplicação do DEA
 
-  
+
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
-- Power BI / Jira / Canvas
+- Power BI / Jira / SQL / Linguagem R 
   
-User stories
-
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
-
-
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-
-# Competências desenvolvidas
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+# Backlog do produto
   
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
+   - Calcular a prancha média operacional mensal
+   - Calcular o tempo de processamento e espera 
+   - Projeção estatísticas dos terminais portuários
+   - Elaborar de um ranking de eficiência para os 10 principais terminais de movimentação de graneis de milho
+   - Projeção de tendência da produtividade dos shiploaders
+   - Rankeamento dos portos por meio da aplicação do DEA
 
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
+     #### Sprint 1
+- [x] Criar backlogs
+- [x] Criação do Repositório no GitHub
+- [x] Estudar linguagem de programação R
+- [x] Desenvolvimento e aprendizagem da metodologia DEA
+- [x] Analisar dados
 
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+#### Sprint 2
+- [x] Criação de código para tratar os dados no Phython
+- [x] Calcular a prancha média operacional mensal
+- [x] Criar gráfico de tendência do produto
+- [x] Calcular o tempo de processamento dos shiploaders
+- [x] Desenvolvimento protótipo do dashboard
+- [x] Variavéis DEA
 
-</details>
+#### Sprint 3
+- [x] Elaborar de um ranking de eficiência para os 6 principais terminais de movimentação de graneis de milho por meio do DEA
+- [x] Análise do tempo de espera e operação
+- [x] Ajuste no dashboard
 
-# Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Pessoa 1         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | Pessoa 2 |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-| Team Member   | Pessoa 3              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Pessoa 4                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Pessoa 5                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Team Member  | Pessoa 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+
+#### Sprint 4
+- [x] Ajsutes finais do dashboard
+
+
+
+
+</div>
+
+</div>
+</div>
+
+
+
+
+# MVP do produto
+
+Clique aqui para acessar o código:
+
+<a href="https://colab.research.google.com/drive/1yBmpH12KLuFQcmD0Kjxgq6GC3MxB-mlR?usp=sharing"> Phython </a>
+
+- Dashboard
+
+![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/526a09587087c22471bbdb1a3b18da963915fea7/PBIDesktop_XOW4gzlFIC.gif)
+
+![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/3089c65d030ecabb78c8285c78dcff27e023d392/PBIDesktop_OLgBtIc3qn.gif)
+
+![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/f36861bd12d11e9a4ba3fe38d369c395a01c7511/PBIDesktop_oZDLYYHMYN.gif)
+
+
+
+
+
+
+
+
