@@ -158,11 +158,16 @@ Clique aqui para acessar o código:
 
 - Dashboard
 
-![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/526a09587087c22471bbdb1a3b18da963915fea7/PBIDesktop_XOW4gzlFIC.gif)
+![image](https://github.com/user-attachments/assets/004edba0-b5c8-4c52-a150-4fe88aa1c6d5)
 
-![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/3089c65d030ecabb78c8285c78dcff27e023d392/PBIDesktop_OLgBtIc3qn.gif)
 
-![image](https://github.com/helloisachinaide/ProjetoAPI4/blob/f36861bd12d11e9a4ba3fe38d369c395a01c7511/PBIDesktop_oZDLYYHMYN.gif)
+![image](https://github.com/user-attachments/assets/502436db-57d2-40dc-b341-79f6ac335753)
+
+![image](https://github.com/user-attachments/assets/f697e96f-c330-4ae6-8f07-d9c10484f8c0)
+
+![image](https://github.com/user-attachments/assets/af1032da-8058-450d-964d-3b22045ba64b)
+
+
 
 
 
