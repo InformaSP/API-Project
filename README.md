@@ -107,12 +107,7 @@ Requisitos não funcionais
   
 # Backlog do produto
   
-   - Calcular a prancha média operacional mensal
-   - Calcular o tempo de processamento e espera 
-   - Projeção estatísticas dos terminais portuários
-   - Elaborar de um ranking de eficiência para os 10 principais terminais de movimentação de graneis de milho
-   - Projeção de tendência da produtividade dos shiploaders
-   - Rankeamento dos portos por meio da aplicação do DEA
+   - 
 
      #### Sprint 1
 - [x] Criar backlogs
